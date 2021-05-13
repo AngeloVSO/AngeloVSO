@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Ângelo O'Dwyer</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, eu sou Ângelo O'Dwyer</h1>
 <h3 align="center">Estudante de Desenvolvimento Web FullStack na Lanebu</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AngeloVSO" alt="AngeloVSO" /> </p>
 
