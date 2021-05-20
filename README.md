@@ -2,9 +2,11 @@
 <h3 align="center">Estudante de Desenvolvimento Web FullStack na Lanebu</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AngeloVSO" alt="AngeloVSO" /> </p>
 
-- 🔭 Estou em busca da primmeira oportunidade como Dev Front-end
+- 🔭 Estou em busca da primeira oportunidade como Dev Front-end
 
-- 💬 Aprendendo sobre **JavaScript, HTML, CSS, React, Next, Node, AWS, SQL, TypeScript**
+- 💬 Experiência com **JavaScript, HTML, CSS, SASS, React, Metodologias Ágeis**
+
+- 💬 Aprendendo sobre **Next, Node, AWS, SQL, TypeScript**
 
 - 📫 Para contato **angelo_odwyer@hotmail.com**
 
