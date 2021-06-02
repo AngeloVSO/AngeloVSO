@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, eu sou Ângelo O'Dwyer</h1>
-<h3 align="center">Estudante de Desenvolvimento Web FullStack na Labenu</h3>
+<h3 align="center">Realizando bootcamp de 1000h - Desenvolvimento Web FullStack na Labenu</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AngeloVSO" alt="AngeloVSO" /> </p>
 
 - 🔭 Estou em busca da primeira oportunidade como Dev Front-end
