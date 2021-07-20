@@ -4,9 +4,9 @@
 
 - 🔭 Estou em busca da primeira oportunidade como Dev Front-end
 
-- 💬 Experiência com **JavaScript, HTML, CSS, SASS, Styled-Components, React, Metodologias Ágeis**
+- 💬 Experiência com **JavaScript, HTML, CSS, SASS, Styled-Components, React, Metodologias Ágeis, Node, SQL, MySQL, TypeScript, GraphQL**
 
-- 💬 Aprendendo sobre **Next, Node, AWS, SQL, TypeScript**
+- 💬 Aprendendo sobre **Next, AWS, Jest, ORM, Firebase**
 
 - 📫 Para contato **angelo_odwyer@hotmail.com**
 
