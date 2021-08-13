@@ -1,11 +1,21 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, eu sou Ângelo O'Dwyer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngeloVSO" alt="AngeloVSO" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AngeloVSO" alt="AngeloVSO" /> </p>
 
-- 💬 Experiência com **JavaScript, HTML, CSS, SASS, Styled-Components, React, Metodologias Ágeis, Node, SQL, MySQL, TypeScript, GraphQL**
+<div align="center" style="display: inline_block"><br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelovso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelovso&theme=tokyonight&layout=compact"/>
+    
+<hr/>
+    
+<div align="left">
+    
+- 💬 Experiência com **JavaScript, HTML, CSS, SASS, Styled-Components, React, Metodologias Ágeis, NodeJS, SQL, MySQL, TypeScript, GraphQL, Firebase**
 
-- 💬 Aprendendo sobre **Next, AWS, Jest, ORM, Firebase**
+- 💬 Aprendendo sobre **Next, AWS, Jest, ORM, NestJS**
 
 - 📫 Para contato **angelo_odwyer@hotmail.com**
+    
+</div>
 
 ## Skills :fire: 
 <p align="center">
